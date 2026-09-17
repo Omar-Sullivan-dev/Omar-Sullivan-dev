@@ -43,6 +43,17 @@ A Java application that validates triangle side lengths and demonstrates:
 * Try-catch exception handling
 * Automated compilation and testing with GitHub Actions
 
+### [JavaFX Student Information Form](https://github.com/Omar-Sullivan-dev/javafx-student-information-form)
+
+A JavaFX desktop-interface project demonstrating:
+
+* Form design with labels and text fields
+* `BorderPane`, `GridPane`, and `HBox` layouts
+* Button and window-close event handling
+* Exit-confirmation alerts
+* Fonts, colors, spacing, borders, and rounded styling
+* Object-oriented and event-driven programming
+
 ## Career Interests
 
 I’m open to **paid internships** and entry-level opportunities in:
