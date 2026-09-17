@@ -18,7 +18,7 @@ I’m developing practical skills in software development, AI-assisted automatio
 * Java Programming II
 * IT Analysis, Design, and Project Management
 
-## Featured Project
+## Featured Projects
 
 ### [AI Support Ticket Automation](https://github.com/Omar-Sullivan-dev/ai-support-ticket-automation)
 
@@ -30,6 +30,18 @@ A Python workflow that reads customer-support tickets, retrieves relevant knowle
 * Optional OpenAI API integration
 * Prompt design and output validation
 * Unit testing and GitHub Actions
+
+### [Java Custom Exception Triangle](https://github.com/Omar-Sullivan-dev/java-custom-exception-triangle)
+
+A Java application that validates triangle side lengths and demonstrates:
+
+* Custom checked exceptions
+* Object-oriented programming
+* Triangle inequality validation
+* Constructors, private fields, and getter methods
+* Perimeter and area calculations
+* Try-catch exception handling
+* Automated compilation and testing with GitHub Actions
 
 ## Career Interests
 
